@@ -1,4 +1,0 @@
-
-fruits = ("apple","pineapple", "orange")
-
-
